@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubra\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\services\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\services\\interfaces\\isessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\interfaces\\isessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\response\\auth\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\response\\auth\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\request\\auth\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\request\\auth\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\request\\auth\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\request\\auth\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\enum\\globalenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\enum\\globalenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\model\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\model\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\extensions\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\extensions\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|c:\\users\\kubra\\source\\repos\\practice\\practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0D085D-4CDE-4956-9E94-D24C7C0BBF07}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\AuthService.cs",
+              "RelativeToolTip": "Practice\\Services\\AuthService.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:57.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Practice\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:56.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\Interfaces\\ISessionHelper.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\Interfaces\\ISessionHelper.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\Interfaces\\ISessionHelper.cs",
+              "RelativeToolTip": "Practice\\Services\\Interfaces\\ISessionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:54.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Practice\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:53.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Response\\Auth\\LoginUserResponse.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Response\\Auth\\LoginUserResponse.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Response\\Auth\\LoginUserResponse.cs",
+              "RelativeToolTip": "Practice\\Model\\Response\\Auth\\LoginUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Request\\Auth\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Request\\Auth\\UserRequestModel.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Request\\Auth\\UserRequestModel.cs",
+              "RelativeToolTip": "Practice\\Model\\Request\\Auth\\UserRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:44.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "RelativeToolTip": "Practice\\Model\\Request\\Auth\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\SessionHelper.cs",
+              "RelativeToolTip": "Practice\\Services\\SessionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:07:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Services\\TokenService.cs",
+              "RelativeToolTip": "Practice\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:07:09.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "Practice\\appsettings.json",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\appsettings.json",
+              "RelativeToolTip": "Practice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:45:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalEnum.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Enum\\GlobalEnum.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Enum\\GlobalEnum.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Enum\\GlobalEnum.cs",
+              "RelativeToolTip": "Practice\\Model\\Enum\\GlobalEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Entities\\Users.cs",
+              "RelativeToolTip": "Practice\\Model\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Entities\\Client.cs",
+              "RelativeToolTip": "Practice\\Model\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\Entities\\Admin.cs",
+              "RelativeToolTip": "Practice\\Model\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:36.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\DBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\DBContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Model\\DBContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Practice\\Model\\DBContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:32.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateTimeExtension.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Extensions\\DateTimeExtension.cs",
+              "RelativeDocumentMoniker": "Practice\\Extensions\\DateTimeExtension.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Extensions\\DateTimeExtension.cs",
+              "RelativeToolTip": "Practice\\Extensions\\DateTimeExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kubra\\source\\repos\\Practice\\Practice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:25.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
