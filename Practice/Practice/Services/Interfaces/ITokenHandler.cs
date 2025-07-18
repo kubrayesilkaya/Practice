@@ -1,6 +1,6 @@
 ﻿namespace Practice.Services.Interfaces
 {
-    public interface ITokenService
+    public interface ITokenHandler
     {
     }
 }
