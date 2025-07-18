@@ -1,9 +1,13 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Practice.Model.DBContext;
 using Practice.Services;
 using Practice.Services.Interfaces;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+var config = builder.Configuration;
 
 var services = builder.Services;
 
@@ -13,7 +17,29 @@ services.AddCors(options =>
     options.AddPolicy("Local", p => p.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader());
 });
 
-// Add services to the container.
+#region JWT Token 
+
+builder.Services.AddAuthentication(option =>
+{
+    option.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    option.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(jwtOption =>
+{
+    var key = config.GetValue<string>("JwtConfig:Key");
+    var keyBytes = Encoding.ASCII.GetBytes(key);
+    jwtOption.SaveToken = true;
+    jwtOption.TokenValidationParameters = new()
+    {
+        IssuerSigningKey = new SymmetricSecurityKey(keyBytes),
+        ValidateLifetime = true,
+        ValidateAudience = true,
+        ValidateIssuer = true
+    };
+});
+
+#endregion
+
 #region Dependency Injection Management
 services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 services.AddScoped<IAuthService, AuthService>();
